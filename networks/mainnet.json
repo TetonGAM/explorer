@@ -1,5 +1,5 @@
 {
-  "title": "TSKR Explorer",
+  "title": "TGAM Explorer",
   "server": "http://188.34.197.25:4003/api",
   "alias": "Main",
   "activeDelegates": 5,
@@ -7,8 +7,8 @@
   "currencies": {
   },
   "defaults": {
-    "token": "TSKR",
-    "symbol": "TSKR",
+    "token": "TGAM",
+    "symbol": "TGAM",
     "currency": null,
     "priceChartOptions": {
       "enabled": false,
