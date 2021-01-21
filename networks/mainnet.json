@@ -1,7 +1,7 @@
 {
   "title": "TSKR Explorer",
   "server": "http://188.34.197.25:4003/api",
-  "alias": "TSKR",
+  "alias": "Main",
   "activeDelegates": 5,
   "rewardOffset": 0,
   "currencies": {
