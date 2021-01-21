@@ -1,35 +1,17 @@
 {
-  "title": "ARK Explorer",
-  "server": "https://explorer.ark.io/api",
-  "alias": "Main",
-  "activeDelegates": 51,
-  "rewardOffset": 75600,
+  "title": "TSKR Explorer",
+  "server": "http://188.34.197.25:4003/api",
+  "alias": "TSKR",
+  "activeDelegates": 5,
+  "rewardOffset": 0,
   "currencies": {
-    "AUD": "A$",
-    "BRL": "R$",
-    "BTC": "Ƀ",
-    "CAD": "C$",
-    "CHF": "CHF",
-    "CNY": "¥",
-    "ETH": "Ξ",
-    "EUR": "€",
-    "GBP": "£",
-    "JPY": "¥",
-    "KRW": "₩",
-    "LTC": "Ł",
-    "NZD": "N$",
-    "RUB": "₽",
-    "USD": "$"
   },
   "defaults": {
-    "token": "ARK",
-    "symbol": "Ѧ",
-    "currency": {
-      "name": "USD",
-      "symbol": "$"
-    },
+    "token": "TSKR",
+    "symbol": "TSKR",
+    "currency": null,
     "priceChartOptions": {
-      "enabled": true,
+      "enabled": false,
       "period": "day",
       "type": "price"
     }
