@@ -1,6 +1,6 @@
 {
   "title": "TGAM Explorer",
-  "server": "http://188.34.197.25:4003/api",
+  "server": "http://188.34.193.159:4003/api",
   "alias": "Main",
   "activeDelegates": 5,
   "rewardOffset": 0,
